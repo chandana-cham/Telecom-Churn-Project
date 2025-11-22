@@ -66,3 +66,10 @@ Telecom-Churn-Project
 Accuracy: 80%
 Precision: 0.66
 Recall (Churn class): 0.55
+
+• Built an ML-based churn prediction model with 80% accuracy using Logistic Regression and feature engineering.
+• Designed a Power BI dashboard with KPIs and churn analytics enabling data-driven retention strategy decisions.
+• Identified key churn drivers including contract type and monthly charges, leading to actionable business recommendations.
+• Improved churn risk visibility using interactive slicers and forecasting insights.
+
+
